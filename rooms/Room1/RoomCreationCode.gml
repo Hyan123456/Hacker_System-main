@@ -1,0 +1,1 @@
+msg = "Mais um dia de trabalho!";

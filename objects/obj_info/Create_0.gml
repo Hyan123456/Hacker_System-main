@@ -1,0 +1,3 @@
+//randomize();
+
+ano = global.senha;

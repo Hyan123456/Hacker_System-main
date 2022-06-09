@@ -1,0 +1,2 @@
+global.ver = false;
+mensagem = "";
